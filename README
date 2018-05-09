@@ -1,0 +1,8 @@
+This repository contains the source code for a basic, a very insecure, website.
+The website functions as a primitive discussion forum with user accounts, topics,
+comments, and file attachments.
+
+*** DO NOT USE THIS CODE FOR A PRODUCTION WEBSITE ***
+
+This code is designed for use by students in IT 5233 at Georgia Southern University
+to identify and correct security issues.
