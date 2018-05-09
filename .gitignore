@@ -1,0 +1,3 @@
+# Ignore the database credentials file
+credentials.php
+.DS_Store
